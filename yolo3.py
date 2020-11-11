@@ -87,7 +87,7 @@ def body(inputs, num_anchors, num_classes):
     x3 = CBL5(x, 128)
     y3 = CBLC(x3, 128, num_anchors * (num_classes + 5))
 
-    return [y1, y2, y3]
+    return [y3, y2, y1]
 
 
 
