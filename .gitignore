@@ -9,3 +9,7 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
+/.idea/
+/BCCD-RBC-WBC-differentiation/
+/dataset2-master/
+/.ipynb_checkpoints/
